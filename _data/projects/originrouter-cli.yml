@@ -1,0 +1,12 @@
+---
+name: OriginRouter CLI
+desc: An open-source local CLI, daemon, and relay connector for OriginRouter Agent Control, with provider routing, Claude and Codex adapters, and LiteLLM proxy support.
+site: https://github.com/originrouter/originrouter_cli
+tags:
+  - ai
+  - llm
+  - node.js
+  - tools
+upforgrabs:
+  name: good first issue
+  link: https://github.com/originrouter/originrouter_cli/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
